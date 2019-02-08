@@ -1,5 +1,5 @@
-# SQLFilm Assignment
-# Unit 7 | assignment 
+# SQLFilm Unit 7 Assignment
+
 ## Installation Instructions
 
 * Refer to the [installation guide](Installation.md) to install the necessary files.
